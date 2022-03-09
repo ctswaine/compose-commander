@@ -12,6 +12,11 @@
   "repository": {
     "url": "https://github.com/ctswaine/compose-commander"
   },
+  "files": [
+    "README.md",
+    "index.js",
+    "bin"
+  ],
   "author": "Chris Swaine",
   "license": "MIT",
   "dependencies": {
