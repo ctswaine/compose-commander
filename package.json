@@ -1,0 +1,19 @@
+{
+  "name": "compose-commander",
+  "version": "1.0.3",
+  "description": "Command line tool for Docker Compose file editing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "compose-commander": "./index.js"
+  },
+  "author": "Chris Swaine",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^9.0.0",
+    "js-yaml": "^4.1.0"
+  }
+}
